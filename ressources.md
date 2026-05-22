@@ -1,0 +1,1 @@
+- https://beej.us/guide/bgc/html/split/bitwise-operations.html#bitwise-operations
